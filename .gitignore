@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+/build/
+/dist/
+*.manifest
+*.toc
+warn-*.txt
+xref-*.html
+*.pyz
+*.pkg
+*.exe
+
+# Local game data and logs
+/game_save.json
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "loc_01",
+    "name": "Location 1",
+    "image_path": "assets/images/landmarks/loc_01.jpg"
+  },
+  {
+    "id": "loc_02",
+    "name": "Location 2",
+    "image_path": "assets/images/landmarks/loc_02.jpg"
+  },
+  {
+    "id": "loc_03",
+    "name": "Location 3",
+    "image_path": "assets/images/landmarks/loc_03.jpg"
+  },
+  {
+    "id": "loc_04",
+    "name": "Location 4",
+    "image_path": "assets/images/landmarks/loc_04.jpg"
+  },
+  {
+    "id": "loc_05",
+    "name": "Location 5",
+    "image_path": "assets/images/landmarks/loc_05.jpg"
+  },
+  {
+    "id": "loc_06",
+    "name": "Location 6",
+    "image_path": "assets/images/landmarks/loc_06.jpg"
+  },
+  {
+    "id": "loc_07",
+    "name": "Location 7",
+    "image_path": "assets/images/landmarks/loc_07.jpg"
+  },
+  {
+    "id": "loc_08",
+    "name": "Location 8",
+    "image_path": "assets/images/landmarks/loc_08.jpg"
+  },
+  {
+    "id": "loc_09",
+    "name": "Location 9",
+    "image_path": "assets/images/landmarks/loc_09.jpg"
+  },
+  {
+    "id": "loc_10",
+    "name": "Location 10",
+    "image_path": "assets/images/landmarks/loc_10.jpg"
+  },
+  {
+    "id": "loc_11",
+    "name": "Location 11",
+    "image_path": "assets/images/landmarks/loc_11.jpg"
+  },
+  {
+    "id": "loc_12",
+    "name": "Location 12",
+    "image_path": "assets/images/landmarks/loc_12.jpg"
+  },
+  {
+    "id": "loc_13",
+    "name": "Location 13",
+    "image_path": "assets/images/landmarks/loc_13.jpg"
+  },
+  {
+    "id": "loc_14",
+    "name": "Location 14",
+    "image_path": "assets/images/landmarks/loc_14.jpg"
+  },
+  {
+    "id": "loc_15",
+    "name": "Location 15",
+    "image_path": "assets/images/landmarks/loc_15.jpg"
+  },
+  {
+    "id": "loc_16",
+    "name": "Location 16",
+    "image_path": "assets/images/landmarks/loc_16.jpg"
+  },
+  {
+    "id": "loc_17",
+    "name": "Location 17",
+    "image_path": "assets/images/landmarks/loc_17.jpg"
+  },
+  {
+    "id": "loc_18",
+    "name": "Location 18",
+    "image_path": "assets/images/landmarks/loc_18.jpg"
+  },
+  {
+    "id": "loc_19",
+    "name": "Location 19",
+    "image_path": "assets/images/landmarks/loc_19.jpg"
+  },
+  {
+    "id": "loc_20",
+    "name": "Location 20",
+    "image_path": "assets/images/landmarks/loc_20.jpg"
+  },
+  {
+    "id": "loc_21",
+    "name": "Location 21",
+    "image_path": "assets/images/landmarks/loc_21.jpg"
+  },
+  {
+    "id": "loc_22",
+    "name": "Location 22",
+    "image_path": "assets/images/landmarks/loc_22.jpg"
+  },
+  {
+    "id": "loc_23",
+    "name": "Location 23",
+    "image_path": "assets/images/landmarks/loc_23.jpg"
+  },
+  {
+    "id": "loc_24",
+    "name": "Location 24",
+    "image_path": "assets/images/landmarks/loc_24.jpg"
+  },
+  {
+    "id": "loc_25",
+    "name": "Location 25",
+    "image_path": "assets/images/landmarks/loc_25.jpg"
+  },
+  {
+    "id": "loc_26",
+    "name": "Location 26",
+    "image_path": "assets/images/landmarks/loc_26.jpg"
+  },
+  {
+    "id": "loc_27",
+    "name": "Location 27",
+    "image_path": "assets/images/landmarks/loc_27.jpg"
+  },
+  {
+    "id": "loc_28",
+    "name": "Location 28",
+    "image_path": "assets/images/landmarks/loc_28.jpg"
+  },
+  {
+    "id": "loc_29",
+    "name": "Location 29",
+    "image_path": "assets/images/landmarks/loc_29.jpg"
+  },
+  {
+    "id": "loc_30",
+    "name": "Location 30",
+    "image_path": "assets/images/landmarks/loc_30.jpg"
+  },
+  {
+    "id": "loc_31",
+    "name": "Location 31",
+    "image_path": "assets/images/landmarks/loc_31.jpg"
+  },
+  {
+    "id": "loc_32",
+    "name": "Location 32",
+    "image_path": "assets/images/landmarks/loc_32.jpg"
+  },
+  {
+    "id": "loc_33",
+    "name": "Location 33",
+    "image_path": "assets/images/landmarks/loc_33.jpg"
+  },
+  {
+    "id": "loc_34",
+    "name": "Location 34",
+    "image_path": "assets/images/landmarks/loc_34.jpg"
+  },
+  {
+    "id": "loc_35",
+    "name": "Location 35",
+    "image_path": "assets/images/landmarks/loc_35.jpg"
+  },
+  {
+    "id": "loc_36",
+    "name": "Location 36",
+    "image_path": "assets/images/landmarks/loc_36.jpg"
+  },
+  {
+    "id": "loc_37",
+    "name": "Location 37",
+    "image_path": "assets/images/landmarks/loc_37.jpg"
+  },
+  {
+    "id": "loc_38",
+    "name": "Location 38",
+    "image_path": "assets/images/landmarks/loc_38.jpg"
+  },
+  {
+    "id": "loc_39",
+    "name": "Location 39",
+    "image_path": "assets/images/landmarks/loc_39.jpg"
+  },
+  {
+    "id": "loc_40",
+    "name": "Location 40",
+    "image_path": "assets/images/landmarks/loc_40.jpg"
+  },
+  {
+    "id": "loc_41",
+    "name": "Location 41",
+    "image_path": "assets/images/landmarks/loc_41.jpg"
+  },
+  {
+    "id": "loc_42",
+    "name": "Location 42",
+    "image_path": "assets/images/landmarks/loc_42.jpg"
+  },
+  {
+    "id": "loc_43",
+    "name": "Location 43",
+    "image_path": "assets/images/landmarks/loc_43.jpg"
+  },
+  {
+    "id": "loc_44",
+    "name": "Location 44",
+    "image_path": "assets/images/landmarks/loc_44.jpg"
+  },
+  {
+    "id": "loc_45",
+    "name": "Location 45",
+    "image_path": "assets/images/landmarks/loc_45.jpg"
+  },
+  {
+    "id": "loc_46",
+    "name": "Location 46",
+    "image_path": "assets/images/landmarks/loc_46.jpg"
+  },
+  {
+    "id": "loc_47",
+    "name": "Location 47",
+    "image_path": "assets/images/landmarks/loc_47.jpg"
+  },
+  {
+    "id": "loc_48",
+    "name": "Location 48",
+    "image_path": "assets/images/landmarks/loc_48.jpg"
+  },
+  {
+    "id": "loc_49",
+    "name": "Location 49",
+    "image_path": "assets/images/landmarks/loc_49.jpg"
+  },
+  {
+    "id": "loc_50",
+    "name": "Location 50",
+    "image_path": "assets/images/landmarks/loc_50.jpg"
+  },
+  {
+    "id": "loc_51",
+    "name": "Location 51",
+    "image_path": "assets/images/landmarks/loc_51.jpg"
+  },
+  {
+    "id": "loc_52",
+    "name": "Location 52",
+    "image_path": "assets/images/landmarks/loc_52.jpg"
+  },
+  {
+    "id": "loc_53",
+    "name": "Location 53",
+    "image_path": "assets/images/landmarks/loc_53.jpg"
+  },
+  {
+    "id": "loc_54",
+    "name": "Location 54",
+    "image_path": "assets/images/landmarks/loc_54.jpg"
+  },
+  {
+    "id": "loc_55",
+    "name": "Location 55",
+    "image_path": "assets/images/landmarks/loc_55.jpg"
+  },
+  {
+    "id": "loc_56",
+    "name": "Location 56",
+    "image_path": "assets/images/landmarks/loc_56.jpg"
+  },
+  {
+    "id": "loc_57",
+    "name": "Location 57",
+    "image_path": "assets/images/landmarks/loc_57.jpg"
+  },
+  {
+    "id": "loc_58",
+    "name": "Location 58",
+    "image_path": "assets/images/landmarks/loc_58.jpg"
+  },
+  {
+    "id": "loc_59",
+    "name": "Location 59",
+    "image_path": "assets/images/landmarks/loc_59.jpg"
+  },
+  {
+    "id": "loc_60",
+    "name": "Location 60",
+    "image_path": "assets/images/landmarks/loc_60.jpg"
+  },
+  {
+    "id": "loc_61",
+    "name": "Location 61",
+    "image_path": "assets/images/landmarks/loc_61.jpg"
+  },
+  {
+    "id": "loc_62",
+    "name": "Location 62",
+    "image_path": "assets/images/landmarks/loc_62.jpg"
+  },
+  {
+    "id": "loc_63",
+    "name": "Location 63",
+    "image_path": "assets/images/landmarks/loc_63.jpg"
+  },
+  {
+    "id": "loc_64",
+    "name": "Location 64",
+    "image_path": "assets/images/landmarks/loc_64.jpg"
+  },
+  {
+    "id": "loc_65",
+    "name": "Location 65",
+    "image_path": "assets/images/landmarks/loc_65.jpg"
+  },
+  {
+    "id": "loc_66",
+    "name": "Location 66",
+    "image_path": "assets/images/landmarks/loc_66.jpg"
+  },
+  {
+    "id": "loc_67",
+    "name": "Location 67",
+    "image_path": "assets/images/landmarks/loc_67.jpg"
+  },
+  {
+    "id": "loc_68",
+    "name": "Location 68",
+    "image_path": "assets/images/landmarks/loc_68.jpg"
+  },
+  {
+    "id": "loc_69",
+    "name": "Location 69",
+    "image_path": "assets/images/landmarks/loc_69.jpg"
+  },
+  {
+    "id": "loc_70",
+    "name": "Location 70",
+    "image_path": "assets/images/landmarks/loc_70.jpg"
+  },
+  {
+    "id": "loc_71",
+    "name": "Location 71",
+    "image_path": "assets/images/landmarks/loc_71.jpg"
+  },
+  {
+    "id": "loc_72",
+    "name": "Location 72",
+    "image_path": "assets/images/landmarks/loc_72.jpg"
+  },
+  {
+    "id": "loc_73",
+    "name": "Location 73",
+    "image_path": "assets/images/landmarks/loc_73.jpg"
+  },
+  {
+    "id": "loc_74",
+    "name": "Location 74",
+    "image_path": "assets/images/landmarks/loc_74.jpg"
+  },
+  {
+    "id": "loc_75",
+    "name": "Location 75",
+    "image_path": "assets/images/landmarks/loc_75.jpg"
+  },
+  {
+    "id": "loc_76",
+    "name": "Location 76",
+    "image_path": "assets/images/landmarks/loc_76.jpg"
+  },
+  {
+    "id": "loc_77",
+    "name": "Location 77",
+    "image_path": "assets/images/landmarks/loc_77.jpg"
+  },
+  {
+    "id": "loc_78",
+    "name": "Location 78",
+    "image_path": "assets/images/landmarks/loc_78.jpg"
+  },
+  {
+    "id": "loc_79",
+    "name": "Location 79",
+    "image_path": "assets/images/landmarks/loc_79.jpg"
+  },
+  {
+    "id": "loc_80",
+    "name": "Location 80",
+    "image_path": "assets/images/landmarks/loc_80.jpg"
+  }
+]

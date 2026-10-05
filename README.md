@@ -86,6 +86,10 @@ The game should help players learn about Bhutan in an interactive way. It connec
 ---
 
 ## How to Run the Game
-1. Install Python  
-2. Download or clone the repository  
-3. Run the main file:
+1. Install Python 3.10 or newer.
+2. Install dependencies with `python -m pip install -r requirements.txt`.
+3. Start the game from the repository root with `python main.py`.
+
+Game images and music are stored under `assets/`; game code modules are under
+`game/`. To build the Windows executable, install the dependencies and run
+`pyinstaller ThreadsOfTime.spec` from the repository root.
